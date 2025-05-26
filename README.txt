@@ -57,4 +57,4 @@ A clean dataset saved as titanic_cleaned_final.csv
 Boxplots showing distributions of Age and Fare before outlier removal
 Terminal output of dataset info and shape at various stages
 
-This cleaned dataset is now ready for:
+This cleaned dataset is now ready.
